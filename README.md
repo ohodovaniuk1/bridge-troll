@@ -124,3 +124,4 @@ npm run karma-chrome
 npm run karma-edge
     run unit tests with Edge (must be installed locally)
 ```
+
